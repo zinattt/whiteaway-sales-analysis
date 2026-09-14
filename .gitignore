@@ -1,0 +1,15 @@
+# Excel files
+*.xlsx
+
+# Word documents
+*.docx
+
+# Google Analytics export
+new_google_analytics_counts.csv
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
